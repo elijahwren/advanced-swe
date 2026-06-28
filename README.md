@@ -1,4 +1,4 @@
-# Advanced SWE - Project
+# Advanced SWE Course- Project
 
 A full-stack equipment inventory system built on AWS EC2 (free tier) featuring an ETL pipeline, web interface, REST API, and external site.
 
